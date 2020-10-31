@@ -2,7 +2,7 @@
 
 - .gitignore
 - git init
-- git add
+- git add 
 - git commit
 - git status
 - git log 
